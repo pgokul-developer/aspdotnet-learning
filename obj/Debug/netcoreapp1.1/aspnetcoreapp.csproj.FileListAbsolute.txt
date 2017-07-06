@@ -1,0 +1,8 @@
+/Users/prabhatgokul/workspace/microsoft/dotnet/core/aspnetcoreapp/bin/Debug/netcoreapp1.1/aspnetcoreapp.deps.json
+/Users/prabhatgokul/workspace/microsoft/dotnet/core/aspnetcoreapp/bin/Debug/netcoreapp1.1/aspnetcoreapp.runtimeconfig.json
+/Users/prabhatgokul/workspace/microsoft/dotnet/core/aspnetcoreapp/bin/Debug/netcoreapp1.1/aspnetcoreapp.runtimeconfig.dev.json
+/Users/prabhatgokul/workspace/microsoft/dotnet/core/aspnetcoreapp/bin/Debug/netcoreapp1.1/aspnetcoreapp.dll
+/Users/prabhatgokul/workspace/microsoft/dotnet/core/aspnetcoreapp/bin/Debug/netcoreapp1.1/aspnetcoreapp.pdb
+/Users/prabhatgokul/workspace/microsoft/dotnet/core/aspnetcoreapp/obj/Debug/netcoreapp1.1/aspnetcoreapp.AssemblyInfo.cs
+/Users/prabhatgokul/workspace/microsoft/dotnet/core/aspnetcoreapp/obj/Debug/netcoreapp1.1/aspnetcoreapp.dll
+/Users/prabhatgokul/workspace/microsoft/dotnet/core/aspnetcoreapp/obj/Debug/netcoreapp1.1/aspnetcoreapp.pdb
